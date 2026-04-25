@@ -1,6 +1,9 @@
 # CG-Project
 Computer Graphics Project on 3D Maze Game
 
+# To compile
+ g++ *.cpp -o app -lglut -lGLEW -lGL
+
 ## To Run
 
 ./PlayGame
@@ -14,3 +17,5 @@ Computer Graphics Project on 3D Maze Game
 ##### Maze GUI
 
 ![alt text](maze_gui.png)
+
+
